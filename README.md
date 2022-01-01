@@ -1,34 +1,13 @@
-# title(){return this.options.title||this.options.name}
+# First project made from scratch using react.
 
 
 ![alt text](https://github.com/perassijulian/ReactProjects/blob/main/screenshots/Captura.JPG?raw=true)
 
-Quick start:
-
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+Taking as a design the ones from https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card?node-id=0%3A129
+I made my own using my react and CSS knowledge. It's statical but now I'm heading to dinamic websites
 
 ## Development
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
+![alt text](https://github.com/perassijulian/ReactProjects/blob/main/screenshots/Captura2.JPG?raw=true)
 
-```
-$ yarn watch # npm run watch
-```
-
-## Supporting Scrimba
-
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
-
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
-
-	It would also mean the world to us if you share the courses.  
-
-Happy Coding!
+This project is divided into its corresponding components. It uses the App.js component to render it in Index.js.
