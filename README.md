@@ -8,6 +8,6 @@ I made my own using my react and CSS knowledge. It's statical but now I'm headin
 
 ## Development
 
-![alt text](https://github.com/perassijulian/ReactProjects/blob/main/screenshots/Captura2.JPG?raw=true)
+![alt text](https://github.com/perassijulian/BusinessCard/blob/main/screenshots/Captura2.JPG)
 
 This project is divided into its corresponding components. It uses the App.js component to render it in Index.js.
